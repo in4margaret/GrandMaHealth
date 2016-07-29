@@ -8,7 +8,7 @@ using System.Web.Http;
 namespace GrandMaHealth
 {
     public static class WebApiConfig
-    {
+    { //try
         public static void Register(HttpConfiguration config)
         {
             // Json settings
